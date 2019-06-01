@@ -2,7 +2,9 @@ h1 {
     text-align: center;
 }
 
-#showWork {
-
-
+#verticalmenu {
+    /* background-color: lightgrey; */
+    display: block; /* Make the links appear below each other */
+    text-decoration: none;
+    color: black;
 }
